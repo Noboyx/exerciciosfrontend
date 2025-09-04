@@ -1,0 +1,10 @@
+img {
+border-radius: 50%;
+position: center;
+}
+.alinhamento{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
